@@ -1,8 +1,8 @@
 # A-MCTS
 
-United We Stand: Decentralized Multi-Agent Planning With Attrition
+United We Stand: Decentralized Multi-Agent Planning With Attrition (ECAI-2024)
 
-This project contains the source code for the environment constructor, planning algorithms, and simulations used for the paper listed above, implemented in the Python programming language. The repository contains several folders:
+This project contains the source code for the environment constructor, planning algorithms, and simulations used for the ECAI 2024 paper listed above, implemented in the Python programming language. The repository contains several folders:
 
 - CODE: the environment constructor, planning algorithms, and simulations considered in the study,
 - Data: the environment configurations and simulation output files.
