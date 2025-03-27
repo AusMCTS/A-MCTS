@@ -54,3 +54,16 @@ To use Dec-MCTS for your problems.
 from function import *
 from mcts import growTree
 ```
+
+
+To cite this work: 
+```
+@incollection{nguyen2024united,
+  title={United We Stand: Decentralized Multi-Agent Planning With Attrition},
+  author={Nguyen, Nhat and Nguyen, Duong and Rizzo, Gianluca and Nguyen, Hung},
+  booktitle={ECAI 2024},
+  pages={3421--3428},
+  year={2024},
+  publisher={IOS Press}
+}
+```
